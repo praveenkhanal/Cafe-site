@@ -1,1 +1,1 @@
-## cafe website using basing HTML, CSS and Javascript
+## cafe website using basic HTML, CSS and Javascript.
